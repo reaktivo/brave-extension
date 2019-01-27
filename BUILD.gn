@@ -82,9 +82,6 @@ transpile_web_ui("brave-extension") {
     "app/types/other/noScriptInfo.ts",
     "app/types/state/mainState.ts",
     "app/types/state/shieldsPannelState.ts",
-    "app/views/background.pug",
-    "app/views/braveShieldsPanel.pug",
-    "app/views/inject.pug",
   ]
 
   # what is the output bundle called and what is the entry point file

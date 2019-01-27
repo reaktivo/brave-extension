@@ -19,7 +19,8 @@
   "web_accessible_resources": [
   ],
   "background": {
-    "page": "background.html"
+    "scripts": ["out/brave_extension_background.bundle.js"],
+    "persistent": true
   },
   "content_scripts": [
     {
